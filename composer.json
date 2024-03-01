@@ -1,0 +1,6 @@
+{
+  "name": "composer-phar/phpcs",
+  "description": "PHPCSStandards/PHP_CodeSniffer",
+  "license": "BSD-3-Clause",
+  "bin": ["phpcs.phar"]
+}
